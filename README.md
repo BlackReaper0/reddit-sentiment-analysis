@@ -36,7 +36,7 @@ The pipeline for sentiment analysis is broken down into the following steps:
 
 ## Flowchart
 
-![Flowchart](/Flowchart.png)
+![Flowchart](/Flowchart.jpeg)
 
 ## Dashboard
 
